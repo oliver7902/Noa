@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4641384f-4e59-41e0-ba8e-810467cec362" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1f1L5T1xPrNubw3CS50nb8mwZkl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4641384f-4e59-41e0-ba8e-810467cec362" name="Default Changelist" comment="" />
+      <created>1595380469021</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595380469021</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="972" y="504" key="com.intellij.ide.util.TipDialog" timestamp="1595385730560">
+      <screen x="0" y="0" width="2560" height="1359" />
+    </state>
+    <state x="972" y="504" key="com.intellij.ide.util.TipDialog/-1920.1072.1920.958/0.0.2560.1359@0.0.2560.1359" timestamp="1595385730560" />
+    <state x="1120" y="0" width="858" height="1006" key="dock-window-1" timestamp="1600367380745">
+      <screen x="0" y="0" width="2560" height="1359" />
+    </state>
+    <state x="153" y="83" width="1058" height="919" key="dock-window-1/-1920.0.1920.999/0.0.1920.999@-1920.0.1920.999" timestamp="1596678041163" />
+    <state x="725" y="80" width="1058" height="919" key="dock-window-1/-1920.0.1920.999/0.0.1920.999@0.0.1920.999" timestamp="1596695186655" />
+    <state x="1120" y="0" width="858" height="1006" key="dock-window-1/-1920.0.1920.999/0.0.2560.1359@0.0.2560.1359" timestamp="1600367380745" />
+    <state x="0" y="25" width="1578" height="1065" key="dock-window-1/-1920.1072.1920.958/0.0.2560.1359@-1920.1072.1920.958" timestamp="1595394261090" />
+    <state x="1913" y="0" width="974" height="1087" key="dock-window-1/0.0.1920.999/1920.0.1920.1080@0.0.1920.999" timestamp="1597740742577" />
+    <state x="-7" y="0" width="974" height="1006" key="dock-window-1/0.0.1920.999@0.0.1920.999" timestamp="1597741844527" />
+    <state x="938" y="320" key="run.anything.popup" timestamp="1595381348666">
+      <screen x="0" y="0" width="2560" height="1359" />
+    </state>
+    <state x="938" y="320" key="run.anything.popup/-1920.1072.1920.958/0.0.2560.1359@0.0.2560.1359" timestamp="1595381348666" />
+    <state x="623" y="214" width="672" height="678" key="search.everywhere.popup" timestamp="1596693999279">
+      <screen x="0" y="0" width="1920" height="999" />
+    </state>
+    <state x="623" y="214" width="672" height="678" key="search.everywhere.popup/-1920.0.1920.999/0.0.1920.999@0.0.1920.999" timestamp="1596693999279" />
+  </component>
+</project>
